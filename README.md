@@ -1,4 +1,4 @@
-# easypaste
+# ![easypaste logo](https://github.com/praggyaverma/EasyPaste/blob/main/images/icon-48.png) easypaste
 
 easypaste is a powerful browser extension that allows you to save your frequently used text for quick and easy access. With easypaste, you can say goodbye to the hassle of repeatedly typing the same text over and over again. 
 
