@@ -8,7 +8,8 @@ Boost your productivity and save valuable time with easypaste!
 
 -----
 
-## Use easypaste on Chrome and Chromuin based browsers!
+## Use easypaste on Chrome and Chromium based browsers!
+Coming soon!...
 
 -----
 
@@ -16,7 +17,7 @@ Boost your productivity and save valuable time with easypaste!
 
 Open terminal and copy the following code
 ```
-git clone https://github.com/praggyaverma/Easy-Paste.git
+git clone https://github.com/praggyaverma/EasyPaste.git
 ```
 
 Go to your broswer and navigate to Settings >> Extensions >> Manage Extensions
