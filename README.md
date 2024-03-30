@@ -6,10 +6,11 @@ Whether it's your commonly used social links, an email template, a code snippet,
 
 Boost your productivity and save valuable time with easypaste!
 
-## Use easypaste on your preferred browswer
-Chrome - 
-Mozilla - 
-Brave - 
+-----
+
+## Use easypaste on Chrome and Chromuin based browsers!
+
+-----
 
 ## Download easypate locally and explore the code!
 
@@ -18,13 +19,22 @@ Open terminal and copy the following code
 git clone https://github.com/praggyaverma/Easy-Paste.git
 ```
 
-Go to your broswer
-On Chrome got to 
+Go to your broswer and navigate to Settings >> Extensions >> Manage Extensions
+
+Here's a quick shortcut for chrome, just enter the following in the search bar, 
 ```
 chrome://extensions/
 ```
 
 Enable `Developer Mode`
-![Developer Mode](image.png)
 
-Select `Load Unpacked`, from the given box, choose the folder `easypaste`. Enable and extension and enjoy!
+<img width="157" alt="image" src="https://github.com/praggyaverma/Easy-Paste/assets/119279862/9eb9576d-5f5e-4eb0-88c4-bdfb821365a7">
+
+
+
+Select `Load Unpacked`, from the given box, choose the folder `easypaste`. 
+
+<img width="151" alt="image" src="https://github.com/praggyaverma/Easy-Paste/assets/119279862/58c0dbc4-67d2-4418-8557-9a53abe27ae9">
+
+
+Enable and extension and enjoy!
