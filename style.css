@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #F5F5F5;
+    color: #101415;
+    font-family: 'Arial', Arial, serif;
+}
+
+.container {
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#savedTexts {
+    margin-top: 10px;
+}
+
+h2 {
+    font-family: Arial, sans-serif;
+}
+
+/* style for the input field */
+input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* style for the save button */
+button[type="submit"] {
+    width: 100%;
+    padding: 8px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* style for each saved text */
+#savedTexts div {
+    margin-bottom: 5px;
+}
+
+/* style for the copy button */
+.saved-text .copy-button {
+    border: none;
+    color: #007bff; 
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 5px;
+    cursor: pointer;
+    background: none;
+}
+
+/* click effect for copy button */
+.saved-text .copy-button:active {
+    transform: translateY(1px);
+}
+
+/* style for the delete button */
+.saved-text .delete-button {
+    border: none;
+    color: #ff0000; 
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 5px;
+    cursor: pointer;
+    background: none;
+}
+
+/* click effect for delete button */
+.saved-text .delete-button:active {
+    transform: translateY(1px);
+}

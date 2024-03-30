@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "easypaste",
+    "description": "Save your frequently used text!",
+    "version": "1.0",
+    "offline_enabled": true,
+    "action": {
+        "default_popup": "popup.html"
+      }
+  }
